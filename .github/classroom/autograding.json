@@ -1,0 +1,7 @@
+ {
+    "name": "Loop checking",
+    "setup": "pip install pytest",
+    "run": "pytest -q m4.py/test_m4.py",
+    "input": "",
+    "output": "",
+  }
